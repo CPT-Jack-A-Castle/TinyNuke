@@ -1,25 +1,3 @@
-This repository contains the source code of TinyNuke which is a zeus-style trojan written by me.
-
-Trusteer Rapport News:
-======================
-
-In a tabloid-like article (https://securityintelligence.com/the-nukebot-trojan-a-bruised-ego-and-a-surprising-source-code-leak/) 
-IBM claims I never bypassed Trusteer without sources or proof while spewing lies about me. 
-Here is a little video to counter that statement: https://www.youtube.com/watch?v=co7T9CHxYZw
-I had offered to help trusteer try to fix this problem weeks ago but they didn't seem to want any help
-as I was stuck with tech support more centered for customers of their software then technical stuff.
-
-You can see how easy it is to beat trusteer which makes 147m USD a year here: 
-https://github.com/aainz/TinyNuke/blob/master/Utils.cpp#L524
-
-Disclaimor:
-===========
-
-Some articles are claiming that I am a certain individual selling this bot on russian underground forums
- - I am not russian neither do I speak the language even though I greatly appreciate russians and their culture
- - This repository is published under my real name
-
-I also never infected anything with this project nor did I sell it or try to 
 
 Main Features:
 ==============
@@ -56,10 +34,3 @@ Installation:
  - Compile the Loader project to get your PE file
 
 Usage and additional info can be found within the code (HiddenDesktop/VNC server folder = HiddenDesktop, Reverse SOCKS 4 server = SocksServer)
-
-Known Bugs:
-===========
-
- - The "Top Hosts" feature was hacked together and should either be fixed or more probably removed.
-
-Note: you can contact me at augustin@inzirillo.com by email or at aainz@exploit.im on jabber (I will not help you commit crime)
